@@ -1,5 +1,5 @@
 {
-  "name": "pino-https-aws-signed",
+  "name": "pino-https-aws-signed-requests",
   "version": "1.0.0",
   "description": "Fork of @technicallyjosh/pino-http-send for handling sending logs in HTTPS through AWS Signed requests.",
   "keywords": [
